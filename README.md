@@ -1,38 +1,25 @@
-# sv
+# Portfolio Website
 
-Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
+Welcome to my personal portfolio website! This is where I showcase my projects and share information about my work.
 
-## Creating a project
+## 🌐 Live Website
 
-If you're seeing this, you've probably already done this step. Congrats!
+Visit my portfolio at: **[loris-catalano.github.io](https://loris-catalano.github.io)**
 
-```sh
-# create a new project in the current directory
-npx sv create
+## 🚀 About This Portfolio
 
-# create a new project in my-app
-npx sv create my-app
-```
+This is my personal portfolio website built with **SvelteKit**, featuring a modern and responsive design. The website showcases my projects, skills, and provides information about my background and experience. 
 
-## Developing
+I chose this particular framework to get experience on something that I wouldn't have had the opportunity to try in production projects.
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+## 🛠️ Built With
 
-```sh
-npm run dev
+- **[SvelteKit](https://kit.svelte.dev/)** - The web framework for building the portfolio
+- **TypeScript** - For type-safe development
+- **Vite** - For fast development and building
+- **GitHub Pages** - For hosting and deployment
 
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
 
-## Building
+---
 
-To create a production version of your app:
-
-```sh
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://svelte.dev/docs/kit/adapters) for your target environment.
+Feel free to explore the projects and get in touch if you'd like to collaborate or have any questions!
